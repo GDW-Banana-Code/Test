@@ -39,3 +39,5 @@ heroesLink.addEventListener('mouseleave', function (event) {
 	event.preventDefault();
 	heroesSubmenu.style.top = '-100px';
 })
+
+let spanGame = document.createElement('span');
